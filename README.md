@@ -21,3 +21,29 @@ Si desea marcar una separación más visual de contenidos podemos utlizarlos ind
 
 EJEMPLO:
 "Esto es similar a un tag de <HR> en HTML.
+
+
+
+
+### 3. Párrafos (PARAGRPAHS)
+Son utilizados para poder presentar grandes secciones de texto que describen detalladamente las secciones de la documentación del proyecto.
+
+EJEMPLO: 
+
+Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1.
+
+Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Estetexto pertenece al parrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2
+
+Lo que en una página utilizariamos usando la etiqueta < p >.
+
+También podemos aplicar estilos básicos de alineación: 
+
+Este párrafo está alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto Este párrafo esta alineado a la izquierda por defecto 
+
+<p align="right">
+Este párrafo esta alineado a la derecha utilizando la propiedad alineación.Este párrafo esta alineado a la derecha utilizando la propiedad alineación.Este párrafo esta alineado a la derecha utilizando la propiedad alineación.Este párrafo esta alineado a la derecha utilizando la propiedad alineación.Este párrafo esta alineado a la derecha utilizando la propiedad alineación.
+</p>
+
+<p align="center" >
+Este párrafo esta centrado usando la propiedad de alineación.Este párrafo esta centrado usando la propiedad de alineación.Este párrafo esta centrado usando la propiedad de alineación.Este párrafo esta centrado usando la propiedad de alineación. Este párrafo esta centrado usando la propiedad de alineación.Este párrafo esta centrado usando la propiedad de alineación.
+</p>
