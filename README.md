@@ -15,3 +15,9 @@ Ejemplo:
 ##### Encabezado nivel 5
 ###### Encabezado nivel 6 
 ####### Encabezado nivel 7 (Solo considera los primeros 6 niveles)
+
+### 2. Separados (SEPARATORS) - PRÁCTICA 03 
+Si desea marcar una separación más visual de contenidos podemos utlizarlos indicando tres caracteres de "_" continuos, en el maquetado
+
+EJEMPLO:
+"Esto es similar a un tag de <HR> en HTML.
