@@ -47,3 +47,38 @@ Este párrafo esta alineado a la derecha utilizando la propiedad alineación.Est
 <p align="center" >
 Este párrafo esta centrado usando la propiedad de alineación.Este párrafo esta centrado usando la propiedad de alineación.Este párrafo esta centrado usando la propiedad de alineación.Este párrafo esta centrado usando la propiedad de alineación. Este párrafo esta centrado usando la propiedad de alineación.Este párrafo esta centrado usando la propiedad de alineación.
 </p>
+
+
+### 4. Texto enfatizado (BOLD, ITALIC, BOLD/ITALIC) 
+Si el texto que deseamos enfatizar se encuentra en un párrafo, podemos utilizar algunos trucos para ubicarlos en la documentación.
+
+##### Texto en Negrita (BOLD) 
+Para poder poner el texto en negrita, se deberá ser encerrado entre dobles * *
+
+EJEMPLO: 
+
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto **Texto** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+
+##### Texto en cursiva (ITALIC) 
+Algunas veces es necesario resaltar algunas secciones o textos en cursiva para que el lector detecte el texto importante, dentro del maquetado con el estándar Markdown lo podemos realizar ubicando el texto entre * (asteriscos).
+
+**EJEMPLO:**
+
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+##### Texto en Negrita y Crusiva (BOLD & ITALIC) 
+
+De igual manera podemos unir ambos estilos **Negrita** y *Cursiva* para resaltar los textos que consideremos importantes dentro de la documentación de nuestros proyectos de Software, utilizando un triple * (asterisco).
+
+EJEMPLO: 
+
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto ***Texto en Negrita y Cursiva*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+##### Subrayado (UNDERLINE) 
+
+Algunas veces necesitaremos subrayas texto dentro de la documentación, para ello, si bien Markdown no tiene un atajo o codificación rápida podemos utilizar el estilo estándar de HTML usando el tag <ins> y cerrando con </ins> 
+
+EJEMPLO:
+
+Texto Textl Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins> Texto Subrayado</ins> Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
