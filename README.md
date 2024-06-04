@@ -48,6 +48,9 @@ Este párrafo esta alineado a la derecha utilizando la propiedad alineación.Est
 Este párrafo esta centrado usando la propiedad de alineación.Este párrafo esta centrado usando la propiedad de alineación.Este párrafo esta centrado usando la propiedad de alineación.Este párrafo esta centrado usando la propiedad de alineación. Este párrafo esta centrado usando la propiedad de alineación.Este párrafo esta centrado usando la propiedad de alineación.
 </p>
 
+<p align="justify">
+Este párrafo esta centrado usando la propiedad de justificado.Este párrafo esta centrado usando la propiedad de justificdo.Este párrafo esta centrado usando la propiedad de justificado.Este párrafo esta centrado usando la propiedad de justificado. Este párrafo esta centrado usando la propiedad de justificado.Este párrafo esta centrado usando la propiedad de justificado.
+</p>
 
 ### 4. Texto enfatizado (BOLD, ITALIC, BOLD/ITALIC) 
 Si el texto que deseamos enfatizar se encuentra en un párrafo, podemos utilizar algunos trucos para ubicarlos en la documentación.
