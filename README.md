@@ -146,7 +146,7 @@ Documentación creada por: **TSU Teresa Vargas Fernández**
 
 <http:www.utxicotepec.edu.mx>
 
-#### 8. Tabla (TABLES)
+### 8. Tabla (TABLES)
 
 Si la documentación lo requiere podemos presentar información en formato de tabla con filas y columnas, para maquetarlas podemos utilizar el carácter \| para delimitar las columnas y \- para delimitar las filas.
 
