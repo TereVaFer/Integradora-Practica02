@@ -145,3 +145,12 @@ Documentación creada por: **TSU Teresa Vargas Fernández**
 <230377@utxicotepec.edu.mx>
 
 <http:www.utxicotepec.edu.mx>
+
+#### 8. Tabla (TABLES)
+
+Si la documentación lo requiere podemos presentar información en formato de tabla con filas y columnas, para maquetarlas podemos utilizar el carácter \| para delimitar las columnas y \- para delimitar las filas.
+
+**EJEMPLO:**
+
+|Encabezado 1| Encabezado 2| Encabezado 3| Encabezado 4|
+|----------------------| -----------------------| -----------------------| ----------------------|
