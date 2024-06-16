@@ -85,3 +85,30 @@ Algunas veces necesitaremos subrayas texto dentro de la documentación, para ell
 EJEMPLO:
 
 Texto Textl Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins> Texto Subrayado</ins> Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+
+### 5. Cuadros para  Código o Reseñas (BLOCKQUOTES) 
+Estos elementos son utilizados para resaltar instrucciones específicas para la la instalación, configuración y/o inicialización o mostrar secciones de códigos fuente. Se maqueta iniciando el texto con un símbolo de mayor que (\>) 
+
+**EJEMPLO:**
+Para listar las carpetas y archivo en y desde una terminal de sistema operativo Windows debemos ingresar el comando: 
+
+> C:/dir 
+
+Después oprimimos la tecla "Enter".
+
+También podemos ingresar textos multilinea.
+
+**EJEMPLO**
+>Aquí se ingresan un conjuntos de instrucciones 
+>para explicar al usuario, cómo instalar el 
+>software que hemos diseñado.
+
+Y si deseamos iniciar viñetas para enlistar pasos podemos utilizar el caracter - dentro del texto a documentar -
+
+**EJEMPLO: Pasos para instalar la Base de Datos:**
+> - Descargar MySQL Server del Sitio Oficial.
+> - Instalar el Sistema Gestor de Base de Datos, definiendo el puerto y contraseña para el usuario root.
+> - Descargamos el archivo de respaldo de la Base de Datos (sql).
+> - Restauramos la Base de Datos usando el comando * My sql * 
+
+>C:/ Program Files/MySQL Server 8.0/bin/mysql -u root  -p password < respaldo.sql
