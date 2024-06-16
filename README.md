@@ -112,3 +112,19 @@ Y si deseamos iniciar viñetas para enlistar pasos podemos utilizar el caracter 
 > - Restauramos la Base de Datos usando el comando * My sql * 
 
 >C:/ Program Files/MySQL Server 8.0/bin/mysql -u root  -p password < respaldo.sql
+
+### 6. Listas ordenadas y listas desordenadas.
+Si en nuestra documentación necesitamos incluir información en modo de lista, un ejemplo tras otro podemos hacerlo utilizando los números con un punto decimal si las deseamos ordenadas o un guión medio - si solo queremos una viñeta. 
+
+**EJEMPLO:** Para crear tu primer repositorio en GitHub deberás:
+1. Contar con una cuenta de GitHub.
+2. Dar click en el botón: Nuevo repositorio
+3. Asignarle un Nombre a tu repositorio, por ejemplo: práctica03-3A
+4. Asignarle un nivel de privacidad entre: 
+
+- **Público:** Si quieres que esté disponible para todos los usuarios.
+- **Privado:** Si deseas a quien solo tu decidas pueden colaborar con tu proyecto 
+
+5. Definir si incluye un archivo de descripción llamado: readme.md
+6. Definir si habrá exclusiones de archivo a través del archivo: .gitgmore
+7. Guardar cambios.
