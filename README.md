@@ -109,7 +109,7 @@ Y si deseamos iniciar viñetas para enlistar pasos podemos utilizar el caracter 
 > - Descargar MySQL Server del Sitio Oficial.
 > - Instalar el Sistema Gestor de Base de Datos, definiendo el puerto y contraseña para el usuario root.
 > - Descargamos el archivo de respaldo de la Base de Datos (sql).
-> - Restauramos la Base de Datos usando el comando * My sql * 
+> - Restauramos la Base de Datos usando el comando *Mysql* 
 
 >C:/ Program Files/MySQL Server 8.0/bin/mysql -u root  -p password < respaldo.sql
 
