@@ -174,3 +174,4 @@ En caso de necesitar la fusión de celdas en columnas usaremos la propiedad cols
 Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusión de filas, debemoss utilizar el estándar HTML, usando los tags: \<th> para los encabezados, \<tr> para las filas y <td> para las celdas, y en ellos utilizar la propiedad de "colspan" y "rowspan". 
 
 ### 9. Imagenes
+Para insertar una imagen es necesario crear un repertorio para ello es necesario abrir la barra de wiki e instar la imagen correspondiente, además de agregar una breve descripción de ella, posteriormente se guardara y copiara el vinculo generado para añadirlo a la página. <img src="githu.png width:50px heigth:50px>
