@@ -173,5 +173,47 @@ En caso de necesitar la fusión de celdas en columnas usaremos la propiedad cols
 
 Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusión de filas, debemoss utilizar el estándar HTML, usando los tags: \<th> para los encabezados, \<tr> para las filas y <td> para las celdas, y en ellos utilizar la propiedad de "colspan" y "rowspan". 
 
-### 9. Imagenes
+<table>
+  <tr>
+    <th>Encabezado 1</th>
+    <th>Encabezado 2</th>
+    <th>Encabezado 3</th>
+    <th>Encabezado 4</th>
+  </tr>
+  <tr>
+    <td>Fila 1 Celda 1</td>
+    <td>Fila 1 Celda 2</td>
+    <td>Fila 1 Celda 3</td>
+    <td>Fila 1 Celda 3</td>
+  </tr>
+  <tr>
+    <td>Fila 2 Celda 1</td>
+    <td colspan=3 align="center"> Fila 2 Celda 2</td>
+  </tr>
+  <tr>
+    <td rowspan=3>Fila 3 Celda 1</td>
+    <td> Fila 3 Celda 2</td>
+    <td> Fila 3 Celda 3</td>
+    <td> Fila 3 Celda 4</td>
+  </tr>
+  <tr>
+    <td> Fila 4 Celda 2</td>
+    <td> Fila 4 Celda 3</td>
+    <td> Fila 4 Celda 4</td>
+  </tr>
+  <tr>
+    <td> Fila 5 Celda 2</td>
+    <td> Fila 5 Celda 3</td>
+    <td> Fila 5 Celda 4</td>
+  </tr>
+  <tr>
+    <td> Fila 6 Celda 1</td>
+    <td> Fila 6 Celda 2</td>
+    <td> Fila 6 Celda 3</td>
+    <td> Fila 6 Celda 4</td>
+  </tr>
+  
+</table>
+
+### 9. Imagenes (Images)
 Para insertar una imagen es necesario crear un repertorio para ello es necesario abrir la barra de wiki e instar la imagen correspondiente, además de agregar una breve descripción de ella, posteriormente se guardara y copiara el vinculo generado para añadirlo a la página. <img src="githu.png" width:50px heigth:50px>
